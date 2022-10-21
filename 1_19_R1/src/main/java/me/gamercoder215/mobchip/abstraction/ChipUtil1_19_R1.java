@@ -199,7 +199,7 @@ public final class ChipUtil1_19_R1 implements ChipUtil {
             .put(Guardian.class, net.minecraft.world.entity.monster.Guardian.class)
             .put(Hoglin.class, net.minecraft.world.entity.monster.hoglin.Hoglin.class)
             .put(Horse.class, net.minecraft.world.entity.animal.horse.Horse.class)
-            .put(HumanEntity.class, net.minecraft.world.entity.player.Player.class)
+            .put(HumanEntity.class, net.minecraft.world.entity.player.EntityHuman.class)
             .put(Husk.class, net.minecraft.world.entity.monster.Husk.class)
             .put(IronGolem.class, net.minecraft.world.entity.animal.IronGolem.class)
             .put(Llama.class, net.minecraft.world.entity.animal.horse.Llama.class)
